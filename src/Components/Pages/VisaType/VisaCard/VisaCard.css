@@ -1,0 +1,31 @@
+.circlecontent {
+  height: 50px !important;
+  width: 50px !important;
+}
+.visacard{
+    height: 200px;
+}
+.visabox{
+    height: 50px;
+}
+.circlecontent img {
+  width: 25px !important;
+}
+
+.CardTitle {
+  font-size: 15px !important;
+  font-weight: 500 !important;
+  line-height: 18px !important;
+}
+.CardBoxCircle {
+  height: 110px !important;
+}
+.CardButton {
+  height: 97px !important;
+  padding: 19px 18px 10px !important;
+}
+.ActionButton {
+  width: 100% !important;
+  height: 34px !important;
+  font-size: 20px !important;
+}

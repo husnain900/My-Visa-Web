@@ -1,0 +1,58 @@
+.three-icons-div {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.Visa-container {
+  padding: 10px 20px;
+}
+
+.Visa-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.three-icons-div h5 {
+  color: #000;
+  font-family: Inter;
+  font-size: 27.785px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+}
+
+.toggle-nv {
+  display: none;
+}
+
+.open .toggle-nv {
+  margin: 20px 0 0;
+  padding: 20px;
+  display: block !important;
+  border-radius: 10px;
+  background-color: gainsboro;
+}
+
+.open .toggle-nv a {
+  color: black;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: 400;
+}
+
+.open .toggle-nv .active {
+  color: red;
+}
+
+ul li {
+  list-style: none;
+  border-bottom: 1px solid gray;
+  padding: 14px 0;
+}
+
+ul li:last-child {
+  border: none;
+}

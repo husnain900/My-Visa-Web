@@ -1,0 +1,50 @@
+.MyVisa {
+  background-color: white;
+}
+
+.visaflag .visa {
+  margin: 0 !important;
+}
+.visibility-hidden {
+  display: none;
+}
+
+.border-b {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.MyVisaTitle {
+  padding: 5px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.MyVisaTitle > div {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  /* margin-right: 140px; */
+}
+.MyVisaTitle > div > img {
+  height: auto;
+  width: 90px;
+}
+.visabox {
+  width: 293px;
+  height: 66px;
+  border-radius: 8px;
+  background-color: #eeeeee;
+  margin: 20px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.visabox h4 {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+}
